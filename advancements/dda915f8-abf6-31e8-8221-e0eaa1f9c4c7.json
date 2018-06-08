@@ -1,0 +1,28 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-05-25 21:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-05-25 20:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-05-25 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-05-25 20:54:37 +0000",
+      "plains": "2018-05-25 20:54:53 +0000",
+      "river": "2018-05-25 21:42:33 +0000"
+    },
+    "done": false
+  }
+}
